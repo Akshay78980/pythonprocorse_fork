@@ -13,3 +13,18 @@ Objects: Bill:
          PdfReport:
             filename
             generate(flatmate1, flatmate2, bill)
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            All thedesigsns are good empogh
